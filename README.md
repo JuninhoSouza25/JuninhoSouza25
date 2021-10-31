@@ -1,6 +1,6 @@
-### Olá! Eu sou Juninho Souza! 👋
+## Olá! Eu sou Juninho Souza! 👋
 
-## Seja bem vindo ao meu GitHub!
+### Seja bem vindo ao meu GitHub!
 
 
 Atualmente atuo como Supervisor de Tecnologia na empresa **Mhédica Service** 
