@@ -10,10 +10,10 @@ Sou responsável pela manutenção e criação do site: https://www.mhedica.com.
 
 Sou estudante de programação, focado em Front-End!
 
-<div>
-  <a href="https://github.com/JuninhoSouza25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuninhoSouza25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuninhoSouza25&layout=compact&langs_count=7&theme=dracula"/>
+<div display="flex">
+  <a href="https://github.com/JuninhoSouza25" >
+  <img max-height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=JuninhoSouza25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img max-height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuninhoSouza25&layout=compact&langs_count=7&theme=dracula"/>  
 </div> 
   
 ### Principais Tecnologias
