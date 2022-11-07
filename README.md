@@ -19,6 +19,8 @@ Sou estudante de programação, focado em Front-End!
 ### Principais Tecnologias
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="Juninho-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Juninho-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Juninho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Juninho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juninho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,12 +33,5 @@ Sou estudante de programação, focado em Front-End!
   <a href="https://www.linkedin.com/in/eugeniopacelli2506/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue" target="_blank"></a>
   <a href="https://www.facebook.com/juninho.souza.752/" target="_blank"><img src="https://img.shields.io/badge/-facebook-blue" target="_blank"></a>
   
-  
-### Fato Interessante
-  
-  Sou guitarrista de uma banda de rock, chamada Ponto BR.
-  Conheça um pouco mais do meu trabalho:
-  
-  <a href="https://instagram.com/pontobrbanda" target="_blank"><img src="https://img.shields.io/badge/-instagram-ff69b4" target="_blank"></a>
-  <a href="https://www.bandapontobr.com.br" target="_blank"><img src="https://img.shields.io/badge/-pontobr-red" target="_blank"></a>
+
   
