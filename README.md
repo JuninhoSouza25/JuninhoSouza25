@@ -3,12 +3,7 @@
 ### Seja bem vindo ao meu GitHub!
 
 
-Atualmente atuo como Supervisor de Tecnologia na empresa **Mhédica Service** 
-Meu trabalho consiste em supervisionar as áreas de TI e Marketing, atuando diretamente com criação de ferramentas que auxiliam os usuários do dia a dia. 
-Dando suporte e manutenção na infra-estrutura da empresa.
-Sou responsável pela manutenção e criação do site: https://www.mhedica.com.br/
-
-Sou estudante de programação, focado em Front-End!
+Sou Desenvolvedor Front-End, formando em Análise e Desenvolvimento de Sistemas pela Faculdade Estácio de Sá.
 
 <div>
   <a href="https://github.com/JuninhoSouza25" >
