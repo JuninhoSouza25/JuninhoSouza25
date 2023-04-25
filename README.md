@@ -4,6 +4,7 @@
 
 
 Sou Desenvolvedor Front-End, formando em Análise e Desenvolvimento de Sistemas pela Faculdade Estácio de Sá.
+Gerente de Plataforma na Academy Abroad.
 
 <div>
   <a href="https://github.com/JuninhoSouza25" >
