@@ -3,7 +3,7 @@
 ### Seja bem vindo ao meu GitHub!
 
 
-Sou Desenvolvedor Front-End, formando em Análise e Desenvolvimento de Sistemas pela Faculdade Estácio de Sá.
+Sou Desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistemas pela Faculdade Estácio de Sá.
 Gerente de Plataforma na Academy Abroad.
 
 <div>
